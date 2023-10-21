@@ -1,3 +1,6 @@
+![Black and Orange Grunge Gaming YouTube Thumbnail](https://github.com/akshat201103/Snakes-and-Ladders/assets/113674819/79143e80-9333-4b7d-94fb-fbba08bfb756)
+
+
 Hello viewer,
 This is a simple Snake and Ladder game implemented in Python. It provides a text-based interface for playing the classic game.
 
