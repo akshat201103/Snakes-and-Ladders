@@ -28,3 +28,7 @@ To get started with the game, follow these instructions:
 2. When a player lands on a cell with a ladder, they move forward.
 3. When a player lands on a cell with a snake, they move backward.
 4. The first player to reach the end of the board wins.
+
+
+I have explained the logic and algorithms used in this game on my YouTube channel Ninja Code.
+You can check it out: https://youtu.be/GOl42fcckZM?si=rdn9iNn5ifjlB0ip
